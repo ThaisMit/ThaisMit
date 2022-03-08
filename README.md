@@ -13,4 +13,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### • Início da caminhada rumo ao mundo da tecnologia 💻
+### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
