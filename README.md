@@ -2,7 +2,6 @@
 # Olá! Seja Bem-Vindo(a) 👾
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)
-[![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thais.motta.94695)
 
 [![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)]
 
