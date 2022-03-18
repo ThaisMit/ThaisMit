@@ -1,7 +1,7 @@
 
 # *Hello! Welcome!* 👾
 
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)
+<a target= “_blank”> [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)</a>
 
 [![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)]
 
