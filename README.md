@@ -3,7 +3,7 @@
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)
 
-[![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)]
+![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)
 
 ## learning languages:
 
@@ -14,3 +14,5 @@
 </div>
 
 ### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
+
+![Snake animation](https://github.com/ThaisMit/ThaisMit/blob/output/github-contribution-grid-snake.svg)
