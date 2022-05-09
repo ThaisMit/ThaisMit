@@ -3,7 +3,9 @@
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)
 
-![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)
+[![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)](https://github.com/ThaisMit/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical)](https://github.com/ThaisMit/github-readme-stats)
 
 ## learning languages:
 
