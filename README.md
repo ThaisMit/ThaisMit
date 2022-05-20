@@ -7,8 +7,8 @@
 
 <div align=center>
     <a href="https://github.com/igormotta92">
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical"/>
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
     </a>
  
 ## learning languages:
