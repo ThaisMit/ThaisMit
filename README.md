@@ -5,9 +5,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaismotta2004@gmail.com)
 
-![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical)
-
+<div align=center>
+    <a href="https://github.com/igormotta92">
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
+    </a>
+ 
 ## learning languages:
 
 <div style="display: inline_block"><br/>
