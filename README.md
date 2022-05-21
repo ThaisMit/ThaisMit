@@ -11,10 +11,6 @@
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
     </a>
 </div>
-
-<div align="center">
-    <img height="450em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
-</div>
  
 ## learning languages:
 
