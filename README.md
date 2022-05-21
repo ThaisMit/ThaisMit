@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img height="350em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
+    <img height="450em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
 </div>
  
 ## learning languages:
