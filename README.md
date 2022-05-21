@@ -5,11 +5,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaismotta2004@gmail.com)
 
-<div>
+<div align="center">
     <a href="https://github.com/ThaisMit">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
-        <img align="center" height="350em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
+        <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
+        <img height="350em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
     </a>
 </div>
  
