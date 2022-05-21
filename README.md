@@ -8,8 +8,8 @@
 <div>
     <a href="https://github.com/ThaisMit">
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=radical"/>
-        <img height="350em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=radical"/>
+        <img height="350em" src="https://user-images.githubusercontent.com/92876808/169626211-d775f254-8bce-453d-b240-784e2daed697.png"/>
     </a>
 </div>
  
