@@ -9,7 +9,6 @@
     <a href="https://github.com/ThaisMit">
         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=gruvbox"/>
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=gruvbox"/>
-        <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/92876808/194711787-27f0ad4f-94d4-4fe3-921b-3e3f372def3c.png" />
     </a>
 </div>
  
