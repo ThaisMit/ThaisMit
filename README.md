@@ -24,3 +24,6 @@
 ### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
 
 ![Snake animation](https://github.com/ThaisMit/ThaisMit/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/92876808/194711787-27f0ad4f-94d4-4fe3-921b-3e3f372def3c.png" />
+</div>
