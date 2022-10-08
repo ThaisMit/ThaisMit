@@ -1,5 +1,5 @@
 
-# *Hello World! Welcome!* 👾
+# *Hello World! Welcome!*
 
 [![instagram](https://img.shields.io/badge/Instagram-E34C26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthais.m)
 [![linkedin](https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
