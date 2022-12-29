@@ -5,10 +5,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D8A52E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.thaismotta@gmail.com)
 
-<div>
+<div align=center>
     <a href="https://github.com/ThaisMit">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&show_icons=true&theme=gruvbox"/>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&show_icons=true&theme=gruvbox"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=ThaisMit&theme=dark&show_icons=true"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&theme=dark"/>
     </a>
 </div>
  
