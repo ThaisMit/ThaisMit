@@ -1,6 +1,3 @@
-
-# *Bem-Vindo! Welcome! Bienvenido!*
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D8A52E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.thaismotta@gmail.com)
 
