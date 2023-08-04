@@ -19,4 +19,5 @@
 ### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
 
 ![Snake animation](https://github.com/ThaisMit/ThaisMit/blob/output/github-contribution-grid-snake.svg)
+
 <div>
