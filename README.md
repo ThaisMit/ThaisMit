@@ -18,6 +18,6 @@
 
 ### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
 
-![Snake animation](https://github.com/ThaisMit/ThaisMit/blob/output/github-contribution-grid-snake.svg)
+<div class="tenor-gif-embed" data-postid="18265197" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/imgae-gif-18265197">Imgae GIF</a>from <a href="https://tenor.com/search/imgae-gifs">Imgae GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
