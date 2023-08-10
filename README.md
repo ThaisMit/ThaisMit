@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=27"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fique+à+vontade+para+explorar!)](https://git.io/typing-svg)
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D8A52E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.thaismotta@gmail.com)
 
@@ -7,8 +11,7 @@
         <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMit&layout=compact&theme=dark"/>
     </a>
 </div>
- 
--------
+
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,6 +19,6 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor.*
+### *“Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. Thomas Edison – inventor*
 
-<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=27"/>
