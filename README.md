@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=27"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fique+à+vontade+para+explorar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&lines=Fique+à+vontade+para+explorar!)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-almeida-939312237)
 [![gmail](https://img.shields.io/badge/Gmail-D8A52E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.thaismotta@gmail.com)
