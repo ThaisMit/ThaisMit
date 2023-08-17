@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=27"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&lines=Fique+à+vontade+para+explorar!)](https://git.io/typing-svg)
 
